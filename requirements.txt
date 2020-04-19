@@ -1,0 +1,8 @@
+Django
+django-allauth
+psycopg2
+sqlparse
+asgiref
+pytz
+dj_database_url
+pillow
